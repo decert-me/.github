@@ -1,5 +1,19 @@
 # Decert.me
 
+[Decert.me](https://decert.me)  is a product that has the potential to change the way we educate. By combining AI and blockchain, we help developers learn and build their own decentralized credit history.
+
+Decert.me is an open-source public good. We believe that only open and trustworthy data can promote a more free, trustworthy, and efficient world. The vision of Decert.me is to build a trusted network of developers, where each developer has their own reliable credential data.
+
+Trustworthy data can be used in employment relationships, crowdsourcing services, certification, reputation systems, and many other scenarios. With more organizations and projects adopting and using it, a more free, trustworthy, and efficient world will inevitably arrive sooner.
+
+All source code of Decert.me is open-source and it is a community product developed and contributed to by community members. Every contribution from community members is accurately recorded on GitHub, Notion, and the blockchain. Your contribution will make Decert.me better and help more developers.
+
+There are no thresholds for participating in contributions. It can be a Pull Request, a quiz challenge, or a Discord message suggestion - any valuable contribution will earn you the corresponding honors or airdrop.
+
+Lastly, come to Decert.me to brush up on your skills and earn SBT. It is the first step towards proving your skills and improving yourself and the world.
+
+---
+
 [Decert.me](https://decert.me) 是一个可能改变教育方式的产品。我们结合AI 与区块链，帮助开发者更好的学习与构建自己的链上信用履历。
 
 Decert.me 是一个开源的公共物品， 我们相信只有开放、可信的数据才能促进形成一个更自由、更可信、更高效的世界。
